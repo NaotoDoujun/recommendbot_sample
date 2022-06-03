@@ -7,7 +7,7 @@ docker-compose up -d --build
 ```
 
 ## Use wikipedia cirrussearch dump
-Download latest wikipedia cirrussearch dump file and place it in the 'scrapy/wiki' folder.  
+Download latest wikipedia cirrussearch dump file and place it in the 'recommendapi/wiki' folder.  
 https://dumps.wikimedia.org/other/cirrussearch/  
 I used 'jawiki-20220516-cirrussearch-content.json.gz'  
 
