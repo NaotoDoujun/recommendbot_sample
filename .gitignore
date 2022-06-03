@@ -1,0 +1,14 @@
+.vscode
+.DS_Store
+bin
+obj
+*.gz
+__pycache__
+bertserving/model/*.model
+bertserving/model/*vocab
+bertserving/model/*.txt
+bertserving/model/*.pbtxt
+bertserving/model/*.meta
+bertserving/model/*.index
+bertserving/model/*.data-00000-of-00001
+recommendapi/wiki/*.model
